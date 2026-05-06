@@ -1,8 +1,10 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="260">
-      <img src="https://raw.githubusercontent.com/envalt/.github/main/assets/logos/envalt-square.svg#gh-light-mode-only" alt="Envalt" width="220" />
-      <img src="https://raw.githubusercontent.com/envalt/.github/main/assets/logos/envalt-square-reverse.svg#gh-dark-mode-only" alt="Envalt" width="220" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/envalt/.github/main/assets/logos/envalt-square-reverse.svg" />
+        <img src="https://raw.githubusercontent.com/envalt/.github/main/assets/logos/envalt-square.svg" alt="Envalt" width="220" />
+      </picture>
     </td>
     <td valign="middle">
       <p>Envalt is a small software company. The name is a portmanteau of <i>gestalt</i>, <i>eventual</i>, and <i>convergence</i>: a nod to things that come together over time, not all at once.</p>
