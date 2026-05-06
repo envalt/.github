@@ -5,13 +5,13 @@
 
 <br/>
 
-Envalt LLC builds tools for everyday work — starting with [ToolShed](https://toolshed.cc), a peer-to-peer tool rental marketplace.
+Envalt LLC builds tools for everyday work - starting with [ToolShed](https://toolshed.cc), a peer-to-peer tool rental marketplace.
 
-The name combines _gestalt_, _eventual_, and _convergence_ — the idea that disparate things, given time, come together into a coherent whole.
+The name combines _gestalt_, _eventual_, and _convergence_ - the idea that disparate things, given time, come together into a coherent whole.
 
 ## Products
 
-- **[ToolShed](https://toolshed.cc)** — rent tools from your neighbors. iOS and Android. Launching Summer 2026.
+- **[ToolShed](https://toolshed.cc)** - rent tools from your neighbors. iOS and Android. Launching Summer 2026.
 
 ## Contact
 
