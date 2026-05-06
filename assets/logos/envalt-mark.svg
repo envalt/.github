@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" role="img" aria-label="Envalt">
+  <title>Envalt</title>
+  <!--
+    Kanizsa-style gestalt — geometry now aligned correctly.
+
+    Three Pac-Man disks placed at the vertices of an equilateral triangle.
+    Each disk has a 60° wedge cut out, with the wedge tip at the disk center
+    and the wedge edges running along the two triangle sides that meet at
+    that vertex. When you extend the visible edges of one Pac-Man's wedge,
+    they continue uninterrupted into the next Pac-Man's wedge — drawing
+    three sides of an equilateral triangle through the empty space.
+
+    Your eye fills in the triangle. It isn't drawn anywhere on the canvas.
+
+    Geometry:
+      Implied triangle vertices (= disk centers):
+        Top:           (50, 28)
+        Bottom-left:  (30.95, 61)   = (50 - 22·cos30°, 50 + 22·sin30° + 0)
+        Bottom-right: (69.05, 61)
+      Disk radius: 13
+      Each wedge is 60° wide, edges aligned with the two implied
+      triangle edges meeting at that vertex.
+  -->
+
+  <!-- Top disk: wedge mouth corners at (43.5, 39.26) and (56.5, 39.26),
+       lying on the lines from (50,28) toward the other two disk centers -->
+  <path d="M 56.5 39.26 A 13 13 0 1 0 43.5 39.26 L 50 28 Z" fill="#0F172A"/>
+
+  <!-- Bottom-left disk: mouth corners at (37.45, 49.74) and (43.95, 61) -->
+  <path d="M 37.45 49.74 A 13 13 0 1 0 43.95 61 L 30.95 61 Z" fill="#0F172A"/>
+
+  <!-- Bottom-right disk: mouth corners at (56.05, 61) and (62.55, 49.74) -->
+  <path d="M 56.05 61 A 13 13 0 1 0 62.55 49.74 L 69.05 61 Z" fill="#0F172A"/>
+</svg>

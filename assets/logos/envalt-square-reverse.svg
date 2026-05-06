@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" role="img" aria-label="Envalt">
+  <title>Envalt</title>
+  <g transform="translate(15, -17.5) scale(1.7)">
+    <path d="M 56.5 39.26 A 13 13 0 1 0 43.5 39.26 L 50 28 Z" fill="#FFFFFF"/>
+    <path d="M 37.45 49.74 A 13 13 0 1 0 43.95 61 L 30.95 61 Z" fill="#FFFFFF"/>
+    <path d="M 56.05 61 A 13 13 0 1 0 62.55 49.74 L 69.05 61 Z" fill="#FFFFFF"/>
+  </g>
+  <text
+    x="100" y="130"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    font-size="52"
+    font-weight="600"
+    letter-spacing="-1.8"
+    fill="#FFFFFF"
+  >envalt</text>
+</svg>
