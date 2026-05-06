@@ -4,8 +4,8 @@ Org profile + brand assets for Envalt LLC.
 
 ## Contents
 
-- `profile/README.md` — content shown on the org homepage at [github.com/envalt](https://github.com/envalt)
-- `assets/logos/` — official Envalt logo files (SVG)
+- `profile/README.md` - content shown on the org homepage at [github.com/envalt](https://github.com/envalt)
+- `assets/logos/` - official Envalt logo files (SVG)
 
 ## Logo files
 
@@ -22,7 +22,7 @@ Org profile + brand assets for Envalt LLC.
 
 ## Design
 
-The mark is a Kanizsa-style gestalt — three Pac-Man disks at the points of an equilateral triangle. The wedge edges align with the implied triangle's edges, so when extended through empty space they form a triangle the eye perceives but isn't drawn. The whole emerges from the parts.
+The mark is a Kanizsa-style gestalt - three Pac-Man disks at the points of an equilateral triangle. The wedge edges align with the implied triangle's edges, so when extended through empty space they form a triangle the eye perceives but isn't drawn. The whole emerges from the parts.
 
 - **Primary color**: `#0F172A` (deep slate)
 - **Reverse**: `#FFFFFF` on `#0F172A`
