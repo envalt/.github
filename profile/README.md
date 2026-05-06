@@ -5,11 +5,11 @@
 
 <br/>
 
-Envalt is small. A Wyoming LLC trying to make this work.
+Envalt is a made-up word with an LLC attached.
 
-Right now we're building [ToolShed](https://toolshed.cc), a peer-to-peer marketplace for renting tools from your neighbors. The premise is simple: most tools sit unused most of the time, and most people who need a tool only need it once. ToolShed connects them. iOS and Android, launching Summer 2026.
+We're building [ToolShed](https://toolshed.cc), a peer-to-peer marketplace for renting tools from your neighbors. The idea: most tools sit unused most of the time, and most people who need a tool only need it once. ToolShed connects them. iOS and Android, launching Summer 2026.
 
-The name is a mash-up of _gestalt_, _eventual_, and _convergence_. Things eventually come together.
+The name combines _gestalt_, _eventual_, and _convergence_. Things eventually come together.
 
 <br/>
 
