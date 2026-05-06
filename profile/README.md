@@ -5,11 +5,11 @@
 
 <br/>
 
-Envalt is a made-up word with an LLC attached. Gestalt + eventual + convergence. We figured if we were going to start something, we should name it something we could grow into.
+Envalt is a small software company. The name is a portmanteau of _gestalt_, _eventual_, and _convergence_: a nod to things that come together over time, not all at once.
 
-Right now that means [ToolShed](https://toolshed.cc), a peer-to-peer marketplace for renting tools from your neighbors. The premise: most tools sit unused most of the time, most people who need a tool only need it once, and there's a marketplace sitting in the middle of those two facts. iOS and Android, launching Summer 2026.
+Our first product is [ToolShed](https://toolshed.cc), a peer-to-peer marketplace for renting tools from your neighbors. The premise is simple: most tools sit unused most of the time, and most people who need a tool only need it once. ToolShed is the marketplace sitting in the middle. iOS and Android, launching Summer 2026.
 
-That's the bet.
+That's the focus for now. We'll do more when there's more worth doing.
 
 <br/>
 
