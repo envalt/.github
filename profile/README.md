@@ -12,8 +12,3 @@ The name combines _gestalt_, _eventual_, and _convergence_ - the idea that dispa
 ## Products
 
 - **[ToolShed](https://toolshed.cc)** - rent tools from your neighbors. iOS and Android. Launching Summer 2026.
-
-## Contact
-
-- General: hello@envalt.com
-- Press / partnerships: press@envalt.com
