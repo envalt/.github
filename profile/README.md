@@ -5,17 +5,11 @@
 
 <br/>
 
-Envalt LLC is a small software company in Wyoming.
+Envalt is small. We're trying to make this work.
 
-## ToolShed
+Right now we're building [ToolShed](https://toolshed.cc), a peer-to-peer marketplace for renting tools from your neighbors. iOS and Android, launching Summer 2026.
 
-A peer-to-peer marketplace for renting tools from your neighbors. iOS and Android, launching Summer 2026.
-
-[toolshed.cc](https://toolshed.cc)
-
-## About the name
-
-Envalt combines _gestalt_, _eventual_, and _convergence_.
+The name is a mash-up of _gestalt_, _eventual_, and _convergence_. Things eventually come together.
 
 <br/>
 
