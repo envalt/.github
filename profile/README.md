@@ -5,9 +5,9 @@
 
 <br/>
 
-Envalt LLC builds tools for everyday work - starting with [ToolShed](https://toolshed.cc), a peer-to-peer tool rental marketplace.
+Envalt LLC is a small software company. Our first product is [ToolShed](https://toolshed.cc) — a peer-to-peer marketplace for renting tools from your neighbors.
 
-The name combines _gestalt_, _eventual_, and _convergence_ - the idea that disparate things, given time, come together into a coherent whole.
+The name combines _gestalt_, _eventual_, and _convergence_ — the idea that disparate things, given time, come together into a coherent whole.
 
 ## Products
 
