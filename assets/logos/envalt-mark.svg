@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" role="img" aria-label="Envalt">
   <title>Envalt</title>
   <!--
-    Kanizsa-style gestalt — geometry now aligned correctly.
+    Kanizsa-style gestalt with aligned geometry.
 
     Three Pac-Man disks placed at the vertices of an equilateral triangle.
     Each disk has a 60° wedge cut out, with the wedge tip at the disk center
     and the wedge edges running along the two triangle sides that meet at
     that vertex. When you extend the visible edges of one Pac-Man's wedge,
-    they continue uninterrupted into the next Pac-Man's wedge — drawing
+    they continue uninterrupted into the next Pac-Man's wedge, drawing
     three sides of an equilateral triangle through the empty space.
 
     Your eye fills in the triangle. It isn't drawn anywhere on the canvas.

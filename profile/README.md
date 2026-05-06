@@ -5,10 +5,34 @@
 
 <br/>
 
-Envalt LLC is a small software company. Our first product is [ToolShed](https://toolshed.cc) — a peer-to-peer marketplace for renting tools from your neighbors.
+<p align="center">
+  <b>A software company building practical apps for everyday life.</b>
+</p>
 
-The name combines _gestalt_, _eventual_, and _convergence_ — the idea that disparate things, given time, come together into a coherent whole.
+<br/>
 
-## Products
+## What we're building
 
-- **[ToolShed](https://toolshed.cc)** - rent tools from your neighbors. iOS and Android. Launching Summer 2026.
+### [ToolShed](https://toolshed.cc)
+
+Peer-to-peer marketplace for renting tools from your neighbors. Save money on tools you only need once. Earn passive income on tools sitting in your garage.
+
+iOS and Android. Launching Summer 2026.<br/>
+[Join the waitlist &rarr;](https://toolshed.cc/download)
+
+<br/>
+
+## About Envalt
+
+Envalt LLC is a Wyoming-registered software company. The name comes from _gestalt_, _eventual_, and _convergence_: the idea that disparate things, given time, come together into a coherent whole. That principle shapes how we design products and run the company.
+
+<br/>
+
+## Status
+
+Pre-launch. Heads-down shipping.
+
+<br/>
+<br/>
+
+<sub>&copy; Envalt LLC. ToolShed is a product of Envalt LLC.</sub>
